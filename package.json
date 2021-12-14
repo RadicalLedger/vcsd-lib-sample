@@ -1,0 +1,24 @@
+{
+  "name": "vcsd-lib-sample",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RadicalLedger/vcsd-lib-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RadicalLedger/vcsd-lib-sample/issues"
+  },
+  "homepage": "https://github.com/RadicalLedger/vcsd-lib-sample#readme",
+  "dependencies": {
+    "@zedeid-sdk/sd-vc-lib": "^1.0.0",
+    "express": "^4.17.1"
+  }
+}
